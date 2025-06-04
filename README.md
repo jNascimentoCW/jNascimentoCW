@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Front-end<br> - 🌱 I’m currently learning React (incl. React Router & Redux)<br> - 📫 How to reach me: jhonatansousan@gmail.com | https://www.linkedin.com/in/jhonatan-nascimento-5590b72a4/<br> - 😄 Pronouns: he/him
+ 🔭 I’m currently working on Front-end<br> 🌱 I’m currently learning React (incl. React Router & Redux)<br> 📫 How to reach me: jhonatansousan@gmail.com | https://www.linkedin.com/in/jhonatan-nascimento-5590b72a4/<br> 😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
